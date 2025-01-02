@@ -1,16 +1,33 @@
-## Hi there 👋
+# ¡Hola! Soy Raúl E. López Briega 👋
 
-<!--
-**relopezbriega/relopezbriega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un apasionado de las ciencias y teconología. Me gusta trabajar con Python y JavaScript y disfruto compartiendo conocimientos a través de mi blog personal.
 
-Here are some ideas to get you started:
+- 🌍 **Ubicación:** Argentina
+- 💻 **Blog personal:** [relopezbriega.github.io](http://relopezbriega.github.io/)
+- 🐦 **Twitter:** [@relopezbriega](https://twitter.com/relopezbriega) 
+- 💼 **LinkedIn:** [Raúl E. Lopez Briega](https://www.linkedin.com/in/relopezbriega/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y Herramientas
+
+- **Lenguajes de programación:** Python, JavaScript
+- **Desarrollo web:** Flask, Django, HTML, CSS, React
+- **Bases de datos:** MySQL, PostgreSQL
+- **Control de versiones:** Git, GitHub
+
+## 📈 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=relopezbriega&show_icons=true&theme=radical)
+
+## 📚 Categorías más populares de mi blog
+
+<!-- Aquí puedes listar tus últimas publicaciones -->
+- [Algebra](https://relopezbriega.github.io/categories/algebra/)
+- [Cálculo](https://relopezbriega.github.io/categories/calculo/)
+- [Estadística](https://relopezbriega.github.io/categories/estadistica/)
+- [Finanzas](https://relopezbriega.github.io/categories/finanzas/)
+- [Machine Learning](https://relopezbriega.github.io/categories/machine-learning/)
+
+## 🏆 Logros
+
+![Arctic Code Vault Contributor](https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png)
+![Starstruck](https://github.githubassets.com/assets/starstruck-default-b6610abad518.png)
