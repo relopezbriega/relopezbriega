@@ -27,7 +27,3 @@ Soy un apasionado de las ciencias y teconología. Me gusta trabajar con Python y
 - [Finanzas](https://relopezbriega.github.io/categories/finanzas/)
 - [Machine Learning](https://relopezbriega.github.io/categories/machine-learning/)
 
-## 🏆 Logros
-
-![Arctic Code Vault Contributor](https://github.githubassets.com/assets/arctic-code-vault-contributor-default-df8d74122a06.png)
-![Starstruck](https://github.githubassets.com/assets/starstruck-default-b6610abad518.png)
